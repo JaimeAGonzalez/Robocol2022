@@ -1,0 +1,2 @@
+joy_node
+-DCATKIN_DEVEL_PREFIX=/home/sinfonia/Brazo2022/devel -DCMAKE_INSTALL_PREFIX=/home/sinfonia/Brazo2022/install -G Unix Makefiles
