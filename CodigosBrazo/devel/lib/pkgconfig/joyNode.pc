@@ -1,0 +1,8 @@
+prefix=/home/sinfonia/Brazo2022/devel
+
+Name: joyNode
+Description: Description of joyNode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
